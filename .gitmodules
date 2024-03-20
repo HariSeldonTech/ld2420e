@@ -1,0 +1,3 @@
+[submodule "components/ld2420e"]
+	path = components/ld2420e
+	url = git@github.com:HariSeldonTech/ld2420e_component.git
